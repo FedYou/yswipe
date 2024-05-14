@@ -7,9 +7,8 @@
   "scripts": {
     "build": "esbuild src/index.js --bundle --minify --sourcemap --platform=browser --format=esm --outfile=dist/yswipe.min.js --analyze"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "FedYou",
+  "license": "MIT",
   "dependencies": {
     "esbuild": "^0.20.2"
   }
